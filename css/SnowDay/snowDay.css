@@ -1,0 +1,51 @@
+#SnowDayBorder{
+	border-style: solid; 
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+	color: #99ccff;
+}
+.menu {
+    background:#99ccff;
+    padding: 6px 0 6px 40px;
+ 	text-align: center;
+ 	margin-bottom: 100px;
+}
+.menu a{
+	color:black;
+	text-decoration: none;
+    font-size:  30px;
+    font-family:"cursive";
+}
+.menu a:hover{
+	color:#cc00cc;
+}
+.vid{
+	display: block;
+	margin:0 auto;
+	margin-top: 50px;
+}
+body{
+	background-color:#ffffb3;
+}
+.snow{
+	font-family:Apple Chancery, cursive;
+	font-size: 30px; 
+	color:#3399ff;
+	padding-top: 19px;
+	margin-top: -10px; 
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+	border-radius: 50px;
+}
+#foot{
+	text-align: center;
+	color: black;
+	background:#99ccff;
+    padding: 6px 0 6px 40px;
+  	font-size: 20px;
+  	margin-bottom: 15px;
+}
